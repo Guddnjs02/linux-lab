@@ -1,0 +1,4 @@
+Hello Linux world.
+This is a test file.
+Linux is powerful.
+Let's learn debugging.

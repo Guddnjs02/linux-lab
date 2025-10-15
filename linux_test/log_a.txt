@@ -1,0 +1,6 @@
+INFO: System startup successful.
+WARNING: Disk space is low.
+ERROR: Connection failed on port 8080.
+INFO: User 'admin' logged in.
+DEBUG: Temp file /tmp/app.log created.
+ERROR: Null pointer exception at line 125.

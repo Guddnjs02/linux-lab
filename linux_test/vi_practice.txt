@@ -1,0 +1,3 @@
+Linux is a powerful operating system.
+The vi editor is one of its essential tools, and it has two modes.
+Practice is the key to mastery.
